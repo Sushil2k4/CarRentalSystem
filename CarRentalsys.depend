@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1700060032 source:d:\pps proj\carrentalsys\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
